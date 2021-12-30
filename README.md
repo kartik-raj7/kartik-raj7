@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kartikey Gupta][website] 👋
 
-[![Website](https://github.com/kartik-raj7)](hhttps://github.com/kartik-raj7)
+[![Website](https://img.shields.io/website?label=chaudharypraveen98&style=for-the-badge&url=https://kartik-raj7.github.io/Pagecss/)](hhttps://github.com/kartik-raj7)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KartikeyRaj007?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KartikeyRaj007)
 
 ## I'm a Full Stack Developer and Pentester!!
