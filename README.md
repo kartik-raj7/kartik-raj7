@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=kartik-raj7&style=for-the-badge&url=https://kartik-raj7.github.io/Pagecss/)](hhttps://github.com/kartik-raj7)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KartikeyRaj007?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KartikeyRaj007)
 
-## I'm a Full Stack Developer and Pentester!!
+## I'm a Competitive Programmer and Front end Developer!!
 
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently Learning DSA 🤣
