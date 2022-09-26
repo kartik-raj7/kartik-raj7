@@ -54,6 +54,6 @@
 </details>
 
 [website]: https://github.com/kartik-raj7/home
-[twitter]: https://twitter.com/Kartikey20Gupta
+[twitter]: https://twitter.com/Kartikey20Gupta/
 [instagram]: https://www.instagram.com/kartik__raj7/
 [linkedin]: https://www.linkedin.com/in/kartikey-gupta20/
