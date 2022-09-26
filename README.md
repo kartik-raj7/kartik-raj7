@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kartikey Gupta][website] 👋
 
 [![Website](https://img.shields.io/website?label=kartik-raj7&style=for-the-badge&url=https://kartik-raj7.github.io/Pagecss/)](https://kartik-raj7.github.io/Pagecss/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/KartikeyRaj007?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kartikey20Gupta/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Kartikey20Gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kartikey20Gupta/)
 
 ## I'm a Competitive Programmer and MERN Stack Developer!!
 
