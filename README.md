@@ -1,10 +1,20 @@
-### Hi there, I'm [Kartikey Gupta][website] 👋
+### Hi there, I'm [Kartikey Gupta][] 👋
 
-[![Website](https://img.shields.io/website?label=kartik-raj7&style=for-the-badge&url=https://kartik-raj7.github.io/Pagecss/)](https://kartik-raj7.github.io/Pagecss/)
+
+
+<center>
+  
+[![Website](https://img.shields.io/website?label=kartik-raj7&style=for-the-badge&url=https://kartikeygupta-folio.netlify.app/)](https://kartikeygupta-folio.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kartikey20Gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kartikey20Gupta/)
+  
+</center>
 
-## I'm a Competitive Programmer and MERN Stack Developer!!
+<center>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&&width=700&height=30&lines=I'm+a+Competitive+Programmer+and+MERN+Stack+Developer!!.)](https://git.io/typing-svg)
 
+ </center>
+ 
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently Learning DSA 🤣
 - 👯 I’m looking to collaborate with other web developers
