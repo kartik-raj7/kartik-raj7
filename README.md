@@ -14,16 +14,16 @@
 - 📫 How to reach me: https://github.com/kartik-raj7
 
 ### Spotify Playing 🎧
-
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/9atj1vasp26i7nzdtrstg2n3p)
+<a href="https://open.spotify.com/user/9atj1vasp26i7nzdtrstg2n3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="kartikey-gupta" height="30" width="40" style="margin:40px;"/></a>
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left" >
+<a href="https://www.linkedin.com/in/kartikey20gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-gupta" height="30" width="40" style="margin:40px;"/></a>
+<a href="https://instagram.com/kartik_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikey-gupta" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/praddyumnshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kartikey-gupta" height="30" width="40" /></a> -->
+<a href="https://codeforces.com/profile/kartik_raj7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="kartikey-gupta" height="30" width="40" /></a>
+<a href="https://leetcode.com/kartik-raj7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikey-gupta" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -44,7 +44,9 @@
 
 <br />
 <br />
+<h3 align="left">My Leetcode stats:</h3>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/kartik-raj7?theme=dark&font=ABeeZee&ext=heatmap)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
