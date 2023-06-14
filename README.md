@@ -1,4 +1,16 @@
-### Hi there, I'm [Kartikey Gupta][] 👋
+### Hi there, I'm Kartikey Gupta 👋
+
+<br/>
+
+<p width="40">
+  As an enthusiastic tech geek I am constantly trying to learn and follow the best software development practices to develop a particular project .Being
+a dedicated problem solver and web developer, I am driven by the challenge of finding innovative solutions and creating aesthetically pleasing
+websites. I thrive in dynamic environments that encourage growth, and I am always eager to explore and learn new technologies to stay ahead of
+the curve.
+ </p>
+<!-- <center>
+  
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&&width=680&height=30&lines=I'm+a+Competitive+Programmer+and+MERN+Stack+Developer!!.)](https://git.io/typing-svg) -->
 
 
 
@@ -8,12 +20,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kartikey20Gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kartikey20Gupta/)
   
 </center>
-
-<center>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&&width=700&height=30&lines=I'm+a+Competitive+Programmer+and+MERN+Stack+Developer!!.)](https://git.io/typing-svg)
-
- </center>
  
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently Learning DSA 🤣
@@ -38,23 +44,111 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<table align="left">
+    <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="75" height="75" />
+            <br> C++
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="65" height="65" />
+            <br> NextJs
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br> HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br> CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
+            <br> Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg"
+                width="48" height="48" alt="react-js" />
+            <br> ReactJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/redux-icon.svg"
+                width="48" height="48" alt="redux" />
+            <br> Redux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=express"
+                width="48" height="48" alt="express-js" />
+            <br> Express
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs"
+                width="48" height="48" alt="node-js" />
+            <br> NodeJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb"
+                width="48" height="48" alt="mongoDB" />
+            <br> MongoDB
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br> Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
+                width="48" height="48" alt="Postman" />
+            <br> Postman
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+                width="48" height="48" alt="Git" />
+            <br> Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg"
+                width="48" height="48" alt="GitHub" />
+            <br> Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=materialui"
+                alt="MaterialUI" width="48" height="48" />
+            <br> MaterialUI
+        </td>
+<!--         <td align="center" width="96">
+            <img src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4" alt="Wireshark" width="48"
+                height="48" />
+            <br> Wireshark
+        </td> -->
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest" width="48"
+                height="48" />
+            <br> RestApi
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg"
+                alt="SASS" width="48" height="48" />
+            <br> SASS
+        </td>
+       <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48"
+                alt="canva" />
+            <br> Canva
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br> TailWind
+        </td>
+    </tr>
+</table>
 
 <br />
 <br />
-<h3 align="left">My Leetcode stats:</h3>
+
+<br/>
+<!-- <h3 align="center">My Leetcode stats:</h3> -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kartik-raj7?theme=dark&font=ABeeZee&ext=heatmap)
 
