@@ -1,5 +1,7 @@
 ### Hi there, I'm Kartikey Gupta 👋
 
+ <img src="./icon.svg" alt = "image" width="450" height="450"/>
+ </div>
 <br/>
 
 <p width="40">
@@ -8,6 +10,8 @@ a dedicated problem solver and web developer, I am driven by the challenge of fi
 websites. I thrive in dynamic environments that encourage growth, and I am always eager to explore and learn new technologies to stay ahead of
 the curve.
  </p>
+ 
+
 <!-- <center>
   
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&&width=680&height=30&lines=I'm+a+Competitive+Programmer+and+MERN+Stack+Developer!!.)](https://git.io/typing-svg) -->
