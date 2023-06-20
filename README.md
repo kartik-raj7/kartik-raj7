@@ -31,11 +31,11 @@ the curve.
 </center>
  
 - 🔭 I’m currently working on Web Development projects
-- 🌱 I’m currently Learning DSA 🤣
+- 🌱 I’m currently practicing DSA 
 - 👯 I’m looking to collaborate with other web developers
 - 🏍  Ask me about Automobiles
-- 🥅 2022 Goals: To Be Better than Yesteday
-- ⚡ Fun fact: I love to play basketball
+- 🥅 2023 Goals: To Be Better than Yesteday
+- ⚡ Fun fact: I love to play basketball and enjoy reading books
 - 📫 How to reach me: https://github.com/kartik-raj7
 
 ### Spotify Playing 🎧
