@@ -1,8 +1,13 @@
-### Hi there, I'm Kartikey Gupta 👋
+<div style="overflow: auto">
+  <img align="right" src="./icon.svg" alt="image" width="250" height="250" />
 
- <img src="./icon.svg" alt = "image" width="450" height="450"/>
- </div>
-<br/>
+  ### Hi there, I'm Kartikey Gupta 👋
+
+  <!-- Add more content here -->
+</div>
+<br />
+<br />
+
 
 <p width="40">
   As an enthusiastic tech geek I am constantly trying to learn and follow the best software development practices to develop a particular project .Being
