@@ -1,6 +1,8 @@
+
+
 <div style="overflow: auto">
   <img align="right" src="./icon.svg" alt="image" width="250" height="250" />
-
+  
   ### Hi there, I'm Kartikey Gupta 👋
 
   <!-- Add more content here -->
@@ -8,6 +10,12 @@
 <br />
 <br />
 
+<center>
+  
+[![Website](https://img.shields.io/website?label=kartik-raj7&style=for-the-badge&url=https://kartikeygupta-folio.netlify.app/)](https://kartikeygupta-folio.netlify.app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Kartikey20Gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kartikey20Gupta/)
+  
+</center>
 
 <p width="40">
   As an enthusiastic tech geek I am constantly trying to learn and follow the best software development practices to develop a particular project .Being
@@ -37,12 +45,17 @@ the curve.
 <br />
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-raj7&show_icons=true&locale=en" alt="kartikey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-raj7&" alt="kartikey" /></p>
-<!--
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-raj7" alt="kartikey" /></a> </p>-->
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=kartik-raj7&count_private=true&show_icons=true&include_all_commits=true&theme=radical"
+                width="450px">
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-raj7&theme=radical" width="450px">
+        </td>
+    </tr>
+</table>
 
 
 ## 🌏 **CONNECT WITH ME**
@@ -61,6 +74,11 @@ the curve.
 </a>
 <br />
 
+## 🌏 **COMPETITIVE PROGRAMMING**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-kartik-raj7?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ninja_h2)
+
 ## 🕸️ **WEB DEV**
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
@@ -73,7 +91,6 @@ the curve.
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
-[![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][repo]
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo]
 [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")][repo]
 
@@ -99,21 +116,18 @@ the curve.
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")][repo]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] 
-[![Javacript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white "Javascript")][repo] 
+
 
 
 
 ## 🛠️ **DEVOPS TOOLS**
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
 
 ## ☁️ **CLOUDS**
 
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
-[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")][repo]
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][repo]
@@ -122,11 +136,9 @@ the curve.
 ## 📄 **CODE EDITOR & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
+
 
 
 ## ☃️ **MY LEARNING RESOURCES**
@@ -140,7 +152,7 @@ the curve.
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+
 
 [medium]: https://medium.com/
 [github]: https://github.com/
@@ -159,22 +171,6 @@ the curve.
 
 <br />
 
-<center>
-  
-[![Website](https://img.shields.io/website?label=kartik-raj7&style=for-the-badge&url=https://kartikeygupta-folio.netlify.app/)](https://kartikeygupta-folio.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Kartikey20Gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kartikey20Gupta/)
-  
-</center>
- <h3 align="center">My Leetcode stats:</h3>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kartik-raj7?theme=dark&font=ABeeZee&ext=heatmap)
-### Connect with me:
-<p align="left" >
-<a href="https://www.linkedin.com/in/kartikey20gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-gupta" height="30" width="40" style="margin:40px;"/></a>
-<a href="https://instagram.com/kartik_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikey-gupta" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kartik_raj7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="kartikey-gupta" height="30" width="40" /></a>
-<a href="https://leetcode.com/kartik-raj7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikey-gupta" height="30" width="40" /></a>
-</p>
 
 [website]: https://github.com/kartik-raj7/home
 [twitter]: https://twitter.com/Kartikey20Gupta/
