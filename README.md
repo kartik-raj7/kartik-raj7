@@ -33,10 +33,10 @@ the curve.
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-- 🔭 I’m currently working on Web Development projects
+- 🔭 I’m currently Looking for Software Development Opportunities
 - 👯 I’m looking to collaborate with other web developers
 - 🏍  Ask me about Automobiles
-- 🥅 2023 Goals: To Be Better than Yesteday
+- 🥅 2024 Goals: To Be Better the Best Version of Myself
 - ⚡ Fun fact: I love to play basketball and enjoy reading books
 - 📫 How to reach me: https://github.com/kartik-raj7
 </span>
