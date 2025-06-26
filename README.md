@@ -18,27 +18,27 @@
 </center>
 
 <p width="40">
-  As an enthusiastic tech geek I am constantly trying to learn and follow the best software development practices to develop a particular project .Being
-a dedicated problem solver and web developer, I am driven by the challenge of finding innovative solutions and creating aesthetically pleasing
-websites. I thrive in dynamic environments that encourage growth, and I am always eager to explore and learn new technologies to stay ahead of
-the curve.
+I'm a self-driven Machine Learning Engineer with a foundation in frontend and full-stack development.
+I started by building interactive web apps using React and Next.js, but my curiosity about how data drives user behavior led me to explore machine learning.
+
+Today, I focus on building end-to-end ML systems that solve real-world problems — from data preprocessing and model training to deployment and visualization. I enjoy working at the intersection of code, data, and product thinking, and I’m constantly learning to stay ahead in this fast-moving space.
  </p>
  
 
 <!-- <center>
   
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&&width=680&height=30&lines=I'm+a+Competitive+Programmer+and+MERN+Stack+Developer!!.)](https://git.io/typing-svg) -->
-## Fun Fact 🎈:
+## ✨ Quick Bits About Me:
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-- 🔭 I’m currently Looking for Software Development Opportunities
-- 👯 I’m looking to collaborate with other web developers
-- 🏍  Ask me about Automobiles
-- 🥅 2024 Goals: To Be Better the Best Version of Myself
-- ⚡ Fun fact: I love to play basketball and enjoy reading books
-- 📫 How to reach me: https://github.com/kartik-raj7
+- 🔭 Currently exploring opportunities in Machine Learning & Applied Data Science  
+- 🤝 Always open to collaborating on real-world ML or data-centric projects  
+- 🌐 Building end-to-end ML systems with Python, scikit-learn, and Streamlit  
+- 🏍 Ask me anything about automobiles — big fan of machines, both code and engines  
+- 🏀 I love playing basketball and enjoy non-fiction reading  
+- 📫 How to reach me: [GitHub](https://github.com/kartik-raj7)
 </span>
 
 <br />
